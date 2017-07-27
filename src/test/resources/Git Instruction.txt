@@ -1,0 +1,3 @@
+Click the below url to add an existing project:
+
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/

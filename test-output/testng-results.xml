@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="130" started-at="2017-07-27T05:12:06Z" finished-at="2017-07-27T05:12:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="130" started-at="2017-07-27T05:12:06Z" finished-at="2017-07-27T05:12:06Z">
+      <class name="TestngFramework.BaseFile">
+        <test-method status="PASS" signature="display()[pri:0, instance:TestngFramework.BaseFile@28d25987]" name="display" duration-ms="16" started-at="2017-07-27T10:42:06Z" finished-at="2017-07-27T10:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+      </class> <!-- TestngFramework.BaseFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
